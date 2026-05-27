@@ -1,0 +1,13 @@
+Linux Day 1 Practice
+
+Basic Commands:
+ls - list files
+pwd - show current directory
+cd - change directory
+mkdir - create folder
+touch - create file
+rm - remove file
+cat - read file
+
+Practice Goal:
+Understand basic navigation in Linux terminal
