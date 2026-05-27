@@ -8,6 +8,44 @@ mkdir - create folder
 touch - create file
 rm - remove file
 cat - read file
-
+ 
 Practice Goal:
-Understand basic navigation in Linux terminal
+Understand basic navigation in Linux terminal.
+
+Linux Day 2 Practice
+
+File & Directory commands:
+ls - list files
+pwd - show current directory
+cd - current path
+mkdir - create folder
+rmdir - remove empty folder
+touch - create file
+
+Navigation practice:
+- Move between folders using cd
+- Create a test foldeers using practice
+- Inside it create 2 files
+
+Goal:
+Be comfortable moving in Linux structure.
+
+Linux Day 3 Practice
+
+Folder practice:
+- Create a folder called linux-practice
+- Move inside it
+- Create files: file1.txt, file2.txt, file3.txt
+
+File operations:
+- Rename file1.txt to test1.txt
+- Delete file3.txt
+
+Commands to remember:
+mv - rename/move file
+rm - delete file
+ls - show files
+cd - move directory
+
+Goal:
+Understand file manipulation.
