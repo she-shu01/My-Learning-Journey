@@ -1,0 +1,9 @@
+Suspicious Activity Summary
+
+-Multiple failed login attempts detected
+-Repeated activity from IP 10.0.0.1
+-Possible brute-force attack pattern observed
+-Account lock triggered as security response
+
+Conclision:
+Activity classified as suspicious and requires monitoring

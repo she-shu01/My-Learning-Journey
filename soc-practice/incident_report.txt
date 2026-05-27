@@ -1,0 +1,16 @@
+Incident Report
+
+Suspicious Activity Detected:
+- Multiple failed login attempts from IP 10.0.0.1
+- Repeated authentication failures indicate possible brute-force attack
+
+Impact:
+- 4 failed login attempts recorded
+- Account lock event triggered
+
+Analysis:
+- Same IP repeatedly attempting access 
+- Pattern consistent with automated attack
+
+Conclusion:
+- Potential brute-force attack blocked by system security controls
